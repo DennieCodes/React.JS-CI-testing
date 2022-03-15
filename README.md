@@ -17,3 +17,7 @@ The difference is that I am using create-react-app whereas his project uses crea
 5. Added ESLint for Jest
 
 6. Added ESLint for react-testing-library
+
+7. Added lint-staged and prettier
+
+8. Added Jest coverage threshold and setup Github Actions CI
