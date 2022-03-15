@@ -9,3 +9,7 @@ The difference is that I am using create-react-app whereas his project uses crea
 1. Create-react-app and initial commit.
 
 2. Added tsjest and jest-dom.
+
+3. Added react-testing-library, configured jest, react-testing-library and jest-dom
+
+4. Added and setup ESLint
