@@ -15,3 +15,5 @@ The difference is that I am using create-react-app whereas his project uses crea
 4. Added and setup ESLint
 
 5. Added ESLint for Jest
+
+6. Added ESLint for react-testing-library

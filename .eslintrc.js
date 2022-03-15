@@ -8,6 +8,7 @@ module.exports = {
     "plugin:react/jsx-runtime",
     "plugin:jest/recommended",
     "plugin:jest/style",
+    "plugin:testing-library/react",
   ],
   parser: "@typescript-eslint/parser",
   plugins: ["@typescript-eslint", "react"],
